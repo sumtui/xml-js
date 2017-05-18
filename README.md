@@ -1,3 +1,9 @@
+THE ORIGINAL IS HERE: https://github.com/nashwaan/xml-js
+
+=======================================================
+=======================================================
+
+
 ![XML ⇔ JS/JSON](http://nashwaan.github.io/xml-js/images/logo.svg)
 
 Convert XML text to Javascript object / JSON text (and vice versa).
